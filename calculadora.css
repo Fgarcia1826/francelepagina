@@ -1,0 +1,25 @@
+.calculadora { 
+     border: 3px rgb(50, 47, 51) ridge;
+     width: 250px;
+     text-align: center;
+     background-color: #8587c7; 
+    }
+#textopantalla { 
+        width: 185px;
+        border: 2px rgb(243, 236, 236) solid;
+        text-align: right ; 
+        position: relative;
+        left: 23px; 
+        padding: 0px 5px;
+        background-color: white; 
+        font-family: "courier new"; 
+        overflow: hidden;
+    }
+.calculadora  [type=button] {
+        width: 35px; 
+        padding: 0;
+     }
+     .largo { 
+        color: rgb(57, 53, 82);
+        width: 60px; 
+    }
